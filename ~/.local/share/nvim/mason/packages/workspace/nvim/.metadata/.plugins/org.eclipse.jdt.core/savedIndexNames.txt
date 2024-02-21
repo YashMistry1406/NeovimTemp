@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+/home/thermodynamics/.config/nvim/~/.local/share/nvim/mason/packages/workspace/nvim/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3842426239.index
+1003296634.index
