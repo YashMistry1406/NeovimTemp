@@ -55,7 +55,7 @@ local config = {
 	--add-opens java.base/java.lang=ALL-UNNAMED \
 --	'-jar', '/home/thermodynamics/Downloads/nvim/jdt-language-server-1.20.0-202302201605/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar',
 --	'-configuration', '/home/thermodynamics/Downloads/nvim/jdt-language-server-1.20.0-202302201605/config_linux/',
-    '-jar','~/.local/share/nvim/mason/packages/jdtls/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar',
+    '-jar','~/.local/share/nvim/mason/packages/jdtls/plugins/org.eclipse.equinox.launcher_*.jar',
     '-configuration' , '~/.local/share/nvim/mason/packages/jdtls/config_linux/',
 	'-data', workspace_dir .. project_name
 },
